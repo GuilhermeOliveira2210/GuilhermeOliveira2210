@@ -36,4 +36,3 @@ Play videogame 🎮, learn languages 👅, read 📚, watch sports 🏈⚽⚾�
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira2210&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/GuilhermeOliveira2210/GuilhermeOliveira2210/blob/output/github-contribution-grid-snake.svg)
